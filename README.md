@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate Software Development Engineer in Test (SDET) with a strong background in C#. I have extensive experience in developing and maintaining automated test frameworks, writing test scripts, and ensuring the quality of software products through rigorous testing.
+I am a passionate **Test Automation Engineer**  with a strong background in C#. I have extensive experience in developing and maintaining automated test frameworks, writing test scripts, and ensuring the quality of software products through rigorous testing.
 
 - 🔭 I’m currently working on enhancing my automation skills and contributing to open-source projects.
 - 🌱 I’m currently learning advanced C# techniques and exploring new testing tools.
